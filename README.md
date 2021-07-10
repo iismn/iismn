@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=VISUALINTELLIGENCE&text=%ROBOTICS&fontSize=20)
-## <center>RESEARCH INTEREST</center> 
+<center>## RESEARCH INTEREST</center> 
 SPATIAL INTELLIGENCE  
 
 
