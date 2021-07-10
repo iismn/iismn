@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=VISUALINTELLIGENCE&text=%ROBOTICS&fontSize=20)
 
+## <div align=center>RESEARCHER</div>  
+- B.S., Mechanical Engineeirng, Korea Univ. of Tech. and Edu.
+- M.S., Civil and Environmental Engineering, Korea Advanced Istitute of Science and Technology
+
 ## <div align=center>RESEARCH INTEREST</div>  
 - Sensor Data based Spatial Intelligence  
 - SLAM  
