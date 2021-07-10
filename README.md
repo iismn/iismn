@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=VISUAL%20INTELLIGENCE&text=%20ROBOTICS&fontSize=20)
 
 ## <div align=center>RESEARCHER HISTORY</div>  
-- B.S. Mechanical Engineeirng, KOREATECH
+- B.S. Mechanical Engineeirng, [KOREATECH](https://www.koreatech.ac.kr/kor/Main.do)
 - IPP Intership Program. [KAERI](https://www.kaeri.re.kr/)  
-- M.S. Civil and Environmental Engineering, KAIST
+- M.S. Civil and Environmental [KAIST](https://www.kaist.ac.kr/kr/)
 
 ## <div align=center>RESEARCH INTEREST</div>  
 - Sensor Data based Spatial Data Handling  
