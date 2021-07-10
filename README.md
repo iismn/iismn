@@ -10,7 +10,9 @@
 - Indoor / Outdoor Localization  
 
 ## <div align=center>DEVEL SKL</div>  
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+
+#EE4C2C
 
 <!--
 **iismn/iismn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
