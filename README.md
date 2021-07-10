@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=VISUALINTELLIGENCE&text=%ROBOTICS&fontSize=20)
 
-## <div align=center>RESEARCH INTEREST</div>
-SPATIAL INTELLIGENCE  
+## <div align=center>RESEARCH INTEREST</div>  
+- Sensor Data based Spatial Intelligence  
+- SLAM  
+- Indoor / Outdoor Localization  
 
 
 <!--
