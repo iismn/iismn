@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=VISUALINTELLIGENCE & ROBOTICS)
 
 <!--
 **iismn/iismn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
