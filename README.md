@@ -6,7 +6,7 @@
 - M.S. Civil and Environmental Engineering, [KAIST](https://www.kaist.ac.kr/kr/)
 
 ## <div align=center>RESEARCH INTEREST</div>  
-- Sensor Data based Spatial Data Handling  
+- 3D Sensor based Spatial Data Handling  
 - Simultaneous Localization and Mapping  
 - Indoor / Outdoor Localization  
 
