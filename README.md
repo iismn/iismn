@@ -5,8 +5,8 @@
 - M.S. Civil and Environmental Engineering, KAIST
 
 ## <div align=center>RESEARCH INTEREST</div>  
-- Sensor Data based Spatial Intelligence  
-- SLAM  
+- Sensor Data based Spatial Data Handling  
+- Simultaneous Localization and Mapping  
 - Indoor / Outdoor Localization  
 
 ## <div align=center>DEVEL SKL</div>  
