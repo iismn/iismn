@@ -2,6 +2,7 @@
 
 ## <div align=center>RESEARCHER HISTORY</div>  
 - B.S. Mechanical Engineeirng, KOREATECH
+- IPP Intership Program. [KAERI](https://www.kaeri.re.kr/)  
 - M.S. Civil and Environmental Engineering, KAIST
 
 ## <div align=center>RESEARCH INTEREST</div>  
