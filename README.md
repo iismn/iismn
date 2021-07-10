@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=VISUAL%20INTELLIGENCE&text=%20ROBOTICS&fontSize=20)
 
-## <div align=center>RESEARCHER</div>  
+## <div align=center>RESEARCHER HISTORY</div>  
 - B.S. Mechanical Engineeirng, KOREATECH
 - M.S. Civil and Environmental Engineering, KAIST
 
