@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=VISUALINTELLIGENCE&text=%ROBOTICS&fontSize=20)
 
 ## <div align=center>RESEARCHER</div>  
-- B.S. Mechanical Engineeirng,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Korea University of Techology and Education&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/ KOREATECH
-- M.S. Civil and Environmental Engineering, Korea Advanced Istitute of Science and Technology   / KAIST
+- B.S. Mechanical Engineeirng, KOREATECH
+- M.S. Civil and Environmental Engineering, KAIST
 
 ## <div align=center>RESEARCH INTEREST</div>  
 - Sensor Data based Spatial Intelligence  
