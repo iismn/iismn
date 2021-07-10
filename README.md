@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=VISUALINTELLIGENCE&text=%ROBOTICS&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=VISUAL INTELLIGENCE&text=%ROBOTICS&fontSize=20)
 
 ## <div align=center>RESEARCHER</div>  
 - B.S. Mechanical Engineeirng, KOREATECH
