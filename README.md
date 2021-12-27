@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=VISUAL%20INTELLIGENCE&text=%20ROBOTICS&fontSize=20)
 
-## <div align=center>RESEARCHER HISTORY</div>  
+## <div align=center>HISTORY</div>  
 - B.S. Mechanical Engineering, [KOREATECH](https://www.koreatech.ac.kr/kor/Main.do)
 - IPP Internship Program. Reactor Remote Decommission Team. [KAERI](https://www.kaeri.re.kr/)  
 - NAVERLABS Mapping & Localization Challenge 1st (Indoor Section)
