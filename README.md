@@ -4,8 +4,11 @@
 - B.S. Mechanical Engineering, [KOREATECH](https://www.koreatech.ac.kr/kor/Main.do)
 - M.S. Civil and Environmental Engineering, [KAIST](https://www.kaist.ac.kr/kr/)
 - Commisioned Researcher, Autonomous Vehicle Localization, KAIST IRiS Lab, [IRiS Lab.](https://iris.kaist.ac.kr/)
+
+## <div align=center>ACTIVITY</div>  
 - IPP Internship Program, Decommission Manipulator Environmantal Perception, Remote Reactor Decommission Team. [KAERI](https://www.kaeri.re.kr/)  
 - NAVERLABS Mapping & Localization Challenge - Indoor Section, 1st
+- Localization Research Assistance, Game&Art:Auguries of Fantasy, 2021, KAIST CT PLAY & NC SOFT [CT PLAY](https://blog.ncsoft.com/gameandart-nc-20210607/)
   
 ## <div align=center>RESEARCH INTEREST</div>  
 - 3D Sensor based Spatial Data Handling  
