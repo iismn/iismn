@@ -7,7 +7,7 @@
 
 ## <div align=center>ACTIVITY</div>  
 - IPP Internship Program, Decommission Manipulator Environmantal Perception, Remote Reactor Decommission Team. [KAERI](https://www.kaeri.re.kr/)  
-- NAVERLABS Mapping & Localization Challenge - Indoor Section, 1st
+- NAVERLABS Mapping & Localization Challenge - Indoor Section, 1st, [NAVERLABS](https://www.naverlabs.com/storyDetail/181)
 - Localization Research Assistance, Game&Art:Auguries of Fantasy, 2021, KAIST CT PLAY & NC SOFT [CT PLAY](https://blog.ncsoft.com/gameandart-nc-20210607/)
   
 ## <div align=center>RESEARCH INTEREST</div>  
