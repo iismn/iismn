@@ -2,11 +2,12 @@
 
 ## <div align=center>HISTORY</div>  
 - B.S. Mechanical Engineering, [KOREATECH](https://www.koreatech.ac.kr/kor/Main.do)
-- IPP Internship Program, Decommission Manipulator Environmantal Perception, Remote Reactor Decommission Team. [KAERI](https://www.kaeri.re.kr/)  
-- NAVERLABS Mapping & Localization Challenge 1st (Indoor Section)
 - M.S. Civil and Environmental Engineering, [KAIST](https://www.kaist.ac.kr/kr/)
 - Commisioned Researcher, Autonomous Vehicle Localization, KAIST IRiS Lab, [IRiS Lab.](https://iris.kaist.ac.kr/)
-
+  
+- IPP Internship Program, Decommission Manipulator Environmantal Perception, Remote Reactor Decommission Team. [KAERI](https://www.kaeri.re.kr/)  
+- NAVERLABS Mapping & Localization Challenge - Indoor Section, 1st
+  
 ## <div align=center>RESEARCH INTEREST</div>  
 - 3D Sensor based Spatial Data Handling  
 - Simultaneous Localization and Mapping  
