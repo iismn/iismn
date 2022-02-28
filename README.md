@@ -5,7 +5,7 @@
 - IPP Internship Program. Reactor Remote Decommission Team. [KAERI](https://www.kaeri.re.kr/)  
 - NAVERLABS Mapping & Localization Challenge 1st (Indoor Section)
 - M.S. Civil and Environmental Engineering, [KAIST](https://www.kaist.ac.kr/kr/)
-- Commisioned Researcher, IRiS Lab, [KAIST](https://iris.kaist.ac.kr/)
+- Commisioned Researcher, Autonomous Vehicle Localization, KAIST IRiS Lab, [IRiS Lab.](https://iris.kaist.ac.kr/)
 
 ## <div align=center>RESEARCH INTEREST</div>  
 - 3D Sensor based Spatial Data Handling  
