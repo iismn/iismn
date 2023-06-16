@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=VISUAL%20INTELLIGENCE&text=%20ROBOTICS&fontSize=20)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=VISUAL%20INTELLIGENCE%20render&fontSize=90)
 ## <div align=center>HISTORY</div>  
 - B.S. Mechanical Engineering, [KOREATECH](https://www.koreatech.ac.kr/kor/Main.do)
 - M.S. Civil and Environmental Engineering, [KAIST](https://www.kaist.ac.kr/kr/)
