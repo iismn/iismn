@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=VISUAL%20INTELLIGENCE&text=%20ROBOTICS&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=VISUAL%20INTELLIGENCE&text=%20ROBOTICS&fontSize=20)
 
 ## <div align=center>HISTORY</div>  
 - B.S. Mechanical Engineering, [KOREATECH](https://www.koreatech.ac.kr/kor/Main.do)
