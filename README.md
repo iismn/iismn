@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=Spatial%20AI%20for%20Autonomous%20Platform&fontSize=10)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Spatial%20AI%20for%20Autonomous%20Platform&fontSize=12)
 
 ## <div align=center>HISTORY</div>  
 - B.S. Mechanical Engineering, [KOREATECH](https://www.koreatech.ac.kr/kor/Main.do)
