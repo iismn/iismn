@@ -11,11 +11,13 @@
 - Localization Research Assistance, Game&Art:Auguries of Fantasy, 2021, KAIST CT PLAY & NC SOFT [CT PLAY](https://about.ncsoft.com/news/article/gameandart-nc-20210607)
   
 ## <div align=left>Reserach Interest</div>  
-- 3D Sensor based Spatial Data Handling  
+- 3D Sensor-based Spatial Data Handling  
 - Simultaneous Localization and Mapping  
 - Indoor / Outdoor Localization  
   
 ## <div align=left>Paper Works</div>  
+- Autonomous Vehicle Localization Without Prior High-Definition Map  
+  S Lee, JH Ryu - IEEE Transaction on Robotics, 2024
 - OpenStreetMap-based LiDAR Global Localization in Urban Environment without a Prior LiDAR Map  
   Y Cho, G Kim, S Lee, JH Ryu - IEEE Robotics and Automation Letters, 2022
 - Origami-inspired New Material Feeding Mechanism for Soft Growing Robots to Keep the Camera Stay at the Tip by Securing its Path  
