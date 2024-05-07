@@ -16,11 +16,11 @@
 - Indoor / Outdoor Localization  
   
 ## <div align=left>Paper Works</div>  
-- Autonomous Vehicle Localization Without Prior High-Definition Map  
+- "Autonomous Vehicle Localization Without Prior High-Definition Map"  
   S Lee, JH Ryu - IEEE Transaction on Robotics, 2024
-- OpenStreetMap-based LiDAR Global Localization in Urban Environment without a Prior LiDAR Map  
+- "OpenStreetMap-based LiDAR Global Localization in Urban Environment without a Prior LiDAR Map"  
   Y Cho, G Kim, S Lee, JH Ryu - IEEE Robotics and Automation Letters, 2022
-- Origami-inspired New Material Feeding Mechanism for Soft Growing Robots to Keep the Camera Stay at the Tip by Securing its Path  
+- "Origami-inspired New Material Feeding Mechanism for Soft Growing Robots to Keep the Camera Stay at the Tip by Securing its Path"  
   J Kim, J Jang, S Lee, SG Jeong, YJ Kim, JH Ryu - IEEE Robotics and Automation Letters, 2021
 
 ## <div align=left>Development Skill</div>  
