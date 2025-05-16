@@ -17,15 +17,15 @@
   
 ## <div align=left>Paper Works</div>  
 - "	VFT-LIO: Visual Feature Tracking for Robust LiDAR Inertial Odometry under Repetitive Patterns"  
-  D Choi, **S Lee**, H Lee, JH Ryu - _IEEE International Conference on Ubiquitous Robots_, 2025
+  D Choi, **S Lee**, H Lee, JH Ryu - _IEEE International Conference on Ubiquitous Robots (UR)_, 2025
 - "Navigation in Underground Parking Lot by Semantic Occupancy Grid Map Prediction"  
-  H Lee, D Choi, **S Lee**, H Song, JH Ryu - _IEEE International Conference on Ubiquitous Robot_, 2025
+  H Lee, D Choi, **S Lee**, H Song, JH Ryu - _IEEE International Conference on Ubiquitous Robot (UR)_, 2025
 - "Autonomous Vehicle Localization Without Prior High-Definition Map"  
-  **S Lee**, JH Ryu - _IEEE Transaction on Robotics_, 2024 [PDF](https://ieeexplore.ieee.org/document/10506654)
+  **S Lee**, JH Ryu - _IEEE Transaction on Robotics (T-RO)_, 2024 [PDF](https://ieeexplore.ieee.org/document/10506654)
 - "OpenStreetMap-based LiDAR Global Localization in Urban Environment without a Prior LiDAR Map"  
-  Y Cho, G Kim, **S Lee**, JH Ryu - _IEEE Robotics and Automation Letters_, 2022 [PDF](https://arxiv.org/abs/2202.07516)
+  Y Cho, G Kim, **S Lee**, JH Ryu - _IEEE Robotics and Automation Letters (RA-L)_, 2022 [PDF](https://arxiv.org/abs/2202.07516)
 - "Origami-inspired New Material Feeding Mechanism for Soft Growing Robots to Keep the Camera Stay at the Tip by Securing its Path"  
-  J Kim, J Jang, **S Lee**, SG Jeong, YJ Kim, JH Ryu - _IEEE Robotics and Automation Letters_, 2021 [PDF](https://ieeexplore.ieee.org/document/9387161)
+  J Kim, J Jang, **S Lee**, SG Jeong, YJ Kim, JH Ryu - _IEEE Robotics and Automation Letters (RA-L)_, 2021 [PDF](https://ieeexplore.ieee.org/document/9387161)
 
 ## <div align=left>Development Skill</div>  
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  
