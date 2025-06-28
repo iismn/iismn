@@ -16,7 +16,7 @@
 - Indoor / Outdoor Localization  
   
 ## <div align=left>Paper Works</div>  
-- "	VFT-LIO: Visual Feature Tracking for Robust LiDAR Inertial Odometry under Repetitive Patterns"  
+- "VFT-LIO: Visual Feature Tracking for Robust LiDAR Inertial Odometry under Repetitive Patterns"  
   D Choi, **S Lee**, H Lee, JH Ryu - _IEEE International Conference on Ubiquitous Robots (UR)_, 2025
 - "Navigation in Underground Parking Lot by Semantic Occupancy Grid Map Prediction"  
   H Lee, D Choi, **S Lee**, H Song, JH Ryu - _IEEE International Conference on Ubiquitous Robot (UR)_, 2025
