@@ -17,9 +17,9 @@
   
 ## <div align=left>Paper Works</div>  
 - "VFT-LIO: Visual Feature Tracking for Robust LiDAR Inertial Odometry under Repetitive Patterns"  
-  D Choi, **S Lee**, H Lee, JH Ryu - _IEEE International Conference on Ubiquitous Robots (UR)_, 2025
+  D Choi, **S Lee**, H Lee, JH Ryu - _IEEE International Conference on Ubiquitous Robots (UR)_, 2025 [PDF](https://ieeexplore.ieee.org/document/11078091)
 - "Navigation in Underground Parking Lot by Semantic Occupancy Grid Map Prediction"  
-  H Lee, D Choi, **S Lee**, H Song, JH Ryu - _IEEE International Conference on Ubiquitous Robot (UR)_, 2025
+  H Lee, D Choi, **S Lee**, H Song, JH Ryu - _IEEE International Conference on Ubiquitous Robot (UR)_, 2025 [PDF](https://ieeexplore.ieee.org/document/11078039)
 - "Autonomous Vehicle Localization Without Prior High-Definition Map"  
   **S Lee**, JH Ryu - _IEEE Transaction on Robotics (T-RO)_, 2024 [PDF](https://ieeexplore.ieee.org/document/10506654)
 - "OpenStreetMap-based LiDAR Global Localization in Urban Environment without a Prior LiDAR Map"  
