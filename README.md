@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=130&section=header&textBg=true&text=Spatial%20AI&fontAlign=10&desc=Autonomous%20Platform%20Research&descAlign=80&descAlignY=50&fontSize=20)
 ## <div align=left>Biography</div>  
-- B.S. Mechanical Engineering, [KOREATECH](https://www.koreatech.ac.kr/kor/Main.do)
+- B.S. Mechanical Engineering, [KOREATECH](https://www.koreatech.ac.kr/)
 - M.S. Civil and Environmental Engineering, [KAIST](https://www.kaist.ac.kr/kr/)
 - Ph.D. Student. Civil and Environmental Engineering, [KAIST](https://www.kaist.ac.kr/kr/)
 
