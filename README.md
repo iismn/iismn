@@ -6,9 +6,9 @@
 
 ## <div align=left>Research Participation Activities</div>  
 - IPP Internship Program, Decommission Manipulator Environmental Perception, Remote Reactor Decommission Team. [KAERI](https://www.kaeri.re.kr/)  
-- NAVER LABS Mapping & Localization Challenge - Indoor Section, 1st, [NAVERLABS](https://www.naverlabs.com/storyDetail/181)
-- Localization Research Assistance, Game&Art:Auguries of Fantasy, 2021, KAIST CT PLAY & NC SOFT [CT PLAY](https://about.ncsoft.com/news/article/gameandart-nc-20210607)
-- Commissioned Researcher, Autonomous Vehicle Localization, KAIST IRiS Lab, [IRiS Lab.](https://iris.kaist.ac.kr/)
+- NAVER LABS Mapping & Localization Challenge - Indoor Section, 1st, [NAVER LABS](https://www.naverlabs.com/storyDetail/181)
+- Localization Research Assistance, Game&Art:Auguries of Fantasy, 2021, KAIST CT PLAY & NC SOFT [NC SOFT CT PLAY](https://about.ncsoft.com/news/article/gameandart-nc-20210607)
+- Commissioned Researcher, Autonomous Vehicle Localization, KAIST IRiS Lab, [IRiS Lab](https://iris.kaist.ac.kr/)
   
 ## <div align=left>Reserach Interest</div>  
 - 3D Sensor-based Spatial Data Handling  
